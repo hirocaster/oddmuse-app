@@ -1,0 +1,3 @@
+[submodule "oddmuse"]
+	path = oddmuse
+	url = git@github.com:kensanata/oddmuse.git

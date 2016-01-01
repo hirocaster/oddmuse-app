@@ -1,0 +1,3 @@
+$UploadAllowed    =  1;
+@UploadTypes = ();
+$KeepDays    = 7;               # Days to keep old revisions (0 means keep forever)
